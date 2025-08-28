@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou Alessandro,
 
-<!--
-**alessandrorbrito/alessandrorbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Aspirante a **Desenvolvedor Full Stack**  
+🚀 Foco em **Node.js, React e MongoDB**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+Node.js | React | MongoDB | JavaScript | HTML | CSS | Git  
+
+---
+
+## 🌍 Conecte-se comigo
+[LinkedIn](https://www.linkedin.com/in/alessandro-brito-493a3786/) • [E-mail](mailto:alessandrorbrito@gmail.com)
