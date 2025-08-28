@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Alessandro,
+# 👋 Olá, eu sou Alessandro
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Aspirante a **Desenvolvedor Full Stack**  
